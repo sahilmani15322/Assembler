@@ -1,0 +1,16 @@
+***SYMBOL TABLE***
+Index Symbol Address
+1		A		100
+2		L1		104
+3		B		112
+4		D		109
+5		L2		109
+6		C		111
+
+----LITERAL TABLE----
+Index Value Address Pooltab
+1		='5'	107		1
+2		='10'	108		1
+3		='10'	114		3
+4		='1'	115		3
+5		='5'	116		3
